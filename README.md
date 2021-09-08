@@ -1,5 +1,5 @@
 # Kodluyoruzilkrepo
 
-Bu repo Kodluyoruz eğitimi kapsamında açtığım ilk repo.
+Bu repo [Kodluyoruz](kodluyoruz.org) eğitimi kapsamında açtığım ilk repo.
 
 
